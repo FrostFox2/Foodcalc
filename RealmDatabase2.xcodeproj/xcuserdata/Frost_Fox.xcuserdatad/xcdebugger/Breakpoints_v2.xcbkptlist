@@ -9,91 +9,14 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RealmDatabase2/IngridientsDatabase.swift"
-            timestampString = "481230191.747691"
+            filePath = "RealmDatabase2/DatabaseTest.swift"
+            timestampString = "481547182.318567"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "12"
-            endingLineNumber = "12"
-            landmarkName = "IngridientsDatabase"
-            landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.IngridientsDatabase.__ivar_destroyer"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/IngridientsDatabase.swift"
-                  timestampString = "481232153.40987"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "4">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.IngridientsDatabase.init () -&gt; RealmDatabase2.IngridientsDatabase"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/IngridientsDatabase.swift"
-                  timestampString = "481232153.410021"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "28">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.IngridientsDatabase.init (value : Swift.AnyObject) -&gt; RealmDatabase2.IngridientsDatabase"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/IngridientsDatabase.swift"
-                  timestampString = "481232153.410172"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "32">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.IngridientsDatabase.init (realm : __ObjC.RLMRealm, schema : __ObjC.RLMObjectSchema) -&gt; RealmDatabase2.IngridientsDatabase"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/IngridientsDatabase.swift"
-                  timestampString = "481232153.41033"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "37">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.IngridientsDatabase.init (value : Swift.AnyObject, schema : __ObjC.RLMSchema) -&gt; RealmDatabase2.IngridientsDatabase"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/IngridientsDatabase.swift"
-                  timestampString = "481232153.410469"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "37">
-               </Location>
-            </Locations>
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "databaseGet()"
+            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -102,44 +25,44 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RealmDatabase2/DatabaseTable.swift"
-            timestampString = "481231681.782402"
+            filePath = "RealmDatabase2/DatabaseTest.swift"
+            timestampString = "481547505.522274"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
-            landmarkName = "DatabaseTable"
-            landmarkType = "3">
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "databaseGet()"
+            landmarkType = "5">
             <Locations>
                <Location
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.DatabaseTable.__deallocating_deinit"
+                  symbolName = "RealmDatabase2.ViewController.databaseGet () -&gt; ()"
                   moduleName = "RealmDatabase2"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/DatabaseTable.swift"
-                  timestampString = "481232153.412966"
+                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/DatabaseTest.swift"
+                  timestampString = "481547524.677166"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "4">
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1228">
                </Location>
                <Location
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.DatabaseTable.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;RealmDatabase2.DatabaseTable&gt;"
+                  symbolName = "RealmDatabase2.ViewController.(databaseGet () -&gt; ()).(closure #1)"
                   moduleName = "RealmDatabase2"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/DatabaseTable.swift"
-                  timestampString = "481232153.413376"
+                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/DatabaseTest.swift"
+                  timestampString = "481547524.677408"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "105">
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "44">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -150,267 +73,14 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RealmDatabase2/ViewController.swift"
-            timestampString = "481231794.695731"
+            filePath = "RealmDatabase2/DatabaseTest.swift"
+            timestampString = "481547564.874918"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "11"
-            endingLineNumber = "11"
-            landmarkName = "ViewController"
-            landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.ViewController.__deallocating_deinit"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/ViewController.swift"
-                  timestampString = "481310882.230909"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "4">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; RealmDatabase2.ViewController"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/ViewController.swift"
-                  timestampString = "481310882.231082"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "11"
-                  endingLineNumber = "11"
-                  offsetFromSymbolStart = "107">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;RealmDatabase2.ViewController&gt;"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/ViewController.swift"
-                  timestampString = "481310882.231181"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "11"
-                  endingLineNumber = "11"
-                  offsetFromSymbolStart = "105">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RealmDatabase2/AppDelegate.swift"
-            timestampString = "481231802.839955"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "12"
-            endingLineNumber = "12"
-            landmarkName = "AppDelegate"
-            landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.AppDelegate.__deallocating_deinit"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/AppDelegate.swift"
-                  timestampString = "481231814.301158"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "4">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.AppDelegate.init () -&gt; RealmDatabase2.AppDelegate"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/AppDelegate.swift"
-                  timestampString = "481231814.301289"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "24">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "main"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/AppDelegate.swift"
-                  timestampString = "481231814.301398"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "12"
-                  endingLineNumber = "12"
-                  offsetFromSymbolStart = "22">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RealmDatabase2/DatabaseTable.swift"
-            timestampString = "481232269.389681"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
-            landmarkName = "readGenerateDatabase()"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "databaseGet()"
             landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RealmDatabase2/DatabaseTable.swift"
-            timestampString = "481307611.127109"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
-            landmarkName = "readGenerateDatabase()"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RealmDatabase2/IngridientsDatabase.swift"
-            timestampString = "481235585.622736"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
-            landmarkName = "init()"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RealmDatabase2/IngridientsDatabase.swift"
-            timestampString = "481235735.096917"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
-            landmarkName = "primaryKey()"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RealmDatabase2/DatabaseTable.swift"
-            timestampString = "481297065.744513"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
-            landmarkName = "DatabaseTable"
-            landmarkType = "3">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RealmDatabase2/IngridientsDatabase.swift"
-            timestampString = "481306119.600567"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "16"
-            endingLineNumber = "16"
-            landmarkName = "IngridientsDatabase"
-            landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.IngridientsDatabase.init () -&gt; RealmDatabase2.IngridientsDatabase"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/IngridientsDatabase.swift"
-                  timestampString = "481306119.604001"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "169">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.IngridientsDatabase.packagePrices.getter : RealmSwift.List&lt;RealmDatabase2.PackagePricing&gt;"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/IngridientsDatabase.swift"
-                  timestampString = "481306119.604206"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "35">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "RealmDatabase2.IngridientsDatabase.packagePrices.setter : RealmSwift.List&lt;RealmDatabase2.PackagePricing&gt;"
-                  moduleName = "RealmDatabase2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Frost_Fox/Desktop/programing/RealmDatabase2/RealmDatabase2/IngridientsDatabase.swift"
-                  timestampString = "481306119.60434"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "65">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
